@@ -1,1 +1,1 @@
-# legendome
+Jouer : legendome.html
